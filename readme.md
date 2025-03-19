@@ -2,11 +2,11 @@
 
 ## 👨‍💻 Desarrollador Full Stack
 
-Soy un Desarrollador Web con experiencia en Vue.js, Laravel, Git, MySQL y Bootstrap. Apasionado por las matemáticas y la programación desde joven, valoro el desarrollo personal y profesional, manteniendo un estilo de vida equilibrado con el gimnasio como hobby.
+Soy un Desarrollador Web con experiencia en Vue.js, Laravel, Git, MySQL y Bootstrap. Apasionado por las matemáticas y la programación desde joven, valoro el desarrollo personal y profesional, cuido mi cuerpo y exploro nuevas tecnologías y ciencias como hobby.
 
-Tengo habilidades para el trabajo en equipo, resolución de problemas y adaptación. Mi experiencia en roles administrativos y comerciales me permite ofrecer soluciones prácticas y alineadas con las necesidades del cliente.
+Tengo habilidades para el trabajo en equipo, resolución de problemas y adaptación. Mi experiencia en roles administrativos y comerciales me permite ofrecer soluciones prácticas y alineadas con las necesidades de cliente comerciales.
 
-Busco oportunidades en empresas que ofrezcan productos digitales, especialmente en aquellas que integren inteligencia artificial. Estoy listo para asumir nuevos retos y crecer profesionalmente. ¡Contáctame!
+Busco oportunidades en la industria, me llama la atención trabajar con productos robustos y escalables, también, la inteligencia artificial. Estoy listo para asumir nuevos retos y crecer profesionalmente. ¡Contáctame!
 
 ## 🚀 Mis habilidades
 
@@ -14,9 +14,9 @@ Busco oportunidades en empresas que ofrezcan productos digitales, especialmente 
 mindmap
   root((Habilidades))
     Frontend
-      Vue.js
       HTML/CSS
-      JavaScript
+      Vue.js
+      Bootstrap
     Backend
       Laravel
       MySQL
@@ -35,14 +35,13 @@ mindmap
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- Profundizando en desarrollo Web con Vue y Django
+- Node.js
 
 ## 💡 Intereses
 
-- 🧠 Inteligencia Artificial
 - 🌐 Desarrollo Web Moderno
 - 🏗️ Ingeniería de Software
-- 🚀 Nuevas tecnologías
+- 🧠 Inteligencia Artificial
 
 ## 📫 Conéctate conmigo
 
@@ -50,9 +49,9 @@ mindmap
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlvaritoGSG)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AlvaritoGSG)
 
-## 🎯 Objetivos para 2024
+## 🎯 Objetivos para 2025
 
-- Adquirir experiencia en en la indusrtia tecnológica profesional.
+- Adquirir experiencia profesional en la indusrtia tecnológica.
 - Desarrollar mis habilidades para mejorar como desarrollaodr.
 
 ---
