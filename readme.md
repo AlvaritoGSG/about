@@ -51,8 +51,8 @@ mindmap
 
 ## 🎯 Objetivos para 2025
 
-- Adquirir experiencia profesional en la indusrtia tecnológica.
-- Desarrollar mis habilidades para mejorar como desarrollaodr.
+- Adquirir experiencia profesional en la industria tecnológica.
+- Mejorar mis habilidades técnicas como desarrollador.
 
 ---
 
