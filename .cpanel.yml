@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/soriaval/AlvaritoGSG/miWeb
+    - /bin/cp -r * $DEPLOYPATH
