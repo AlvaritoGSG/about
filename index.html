@@ -7,20 +7,32 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description"
-		content="Álvaro Soria, desarrollador web Full Stack de LATAM. Trabajo con JavaScript, Vue.js, Laravel, PHP, Node.js, Express, Nest, Docker, MySQL, Python y Git. Apasionado por la tecnología, la resolución de problemas y el aprendizaje continuo. Curioso, analítico y en constante evolución.">
+		content="Álvaro Soria, Desarrollador web Full stack de LATAM. Trabajo con JavaScript, Vue.js, Laravel, PHP, Node.js, Express, Nest, Docker, PostgreSQL, MySQL, Python, Linux, Git. Apasionado por la tecnología, la resolución de problemas y el aprendizaje continuo. Curioso, analítico y en constante evolución.">
 	<meta name="keywords"
-		content="Álvaro Soria, desarrollador web, full stack, frontend, backend, JavaScript, Vue.js, Laravel, PHP, Node.js, Express, Nest, Docker, MySQL, Python, Git, Álvaro Gabriel, AlvaritoGSG">
+		content="Álvaro Soria, desarrollador web, full stack, front end, back end, JavaScript, Vue, Laravel, PHP, Node, Express, Nest, Docker, PostgreSQL, MySQL, Python, Linux, Git, Álvaro Gabriel, AlvaritoGSG">
 	<meta name="author" content="Álvaro Gabriel Soria Guzmán">
 	<!-- Open Graph -->
 	<meta property="og:title" content="Álvaro Soria - Software developer" />
+	<!-- <meta property="og:description"
+		content="Desarrollador web Full-Stack especializado en JavaScript, Vue.js, Node.js, Laravel y más. Curioso, analítico y en constante evolución." /> -->
 	<meta property="og:description"
-		content="Desarrollador web Full-Stack especializado en JavaScript, Vue.js, Node.js, Laravel y más. Curioso, analítico y en constante evolución." />
-	<meta property="og:image" content="./images/preview.webp" />
+		content="Desarrollador Web con bases sólidas en JavaScript, Vue.js y Laravel. Experiencia en desarrollo SPA, APIs RESTful, y bases de datos. Curioso, analítico y con una visión práctica gracias a mi experiencia en roles de gestión." />
+	<meta property="og:image" content="/images/preview.webp" />
+	<meta property="og:image"
+		content="[https://AlvaritoGSG.dev/images/preview.webp](https://AlvaritoGSG.dev/images/preview.webp)" />
 	<meta property="og:url" content="https://AlvaritoGSG.dev/" />
 	<meta property="og:type" content="website" />
 	<meta property="og:locale" content="es_ES" />
+	<!-- [og] para Twitter -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@AlvaritoGSG" />
+	<meta name="twitter:creator" content="@AlvaritoGSG" />
+	<meta name="twitter:title" content="Álvaro Soria [Software developer]" />
+	<meta name="twitter:description"
+		content="Desarrollador Web con bases sólidas en Vue.js, Laravel y JavaScript. Experiencia en desarrollo SPA, APIs RESTful, y bases de datos. Curioso, analítico y con una visión práctica gracias a mi experiencia en roles de gestión." />
+	<meta name="twitter:image" content="https://AlvaritoGSG.dev/images/preview.webp" />
 	<!-- Page Title -->
-	<link rel="icon" href="./images/laptop-code-solid.svg">
+	<link rel="icon" href="/images/laptop-code-solid.svg" type="image/svg+xml">
 	<title>AlvaritoGSG Portfolio Web</title>
 	<!-- Google Fonts css-->
 	<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash%7CRoboto:300,400,400i,500,500i,700,700i,900"
@@ -70,7 +82,7 @@
 		<nav class="navbar navbar-expand-md navbar-light fixed-top" id="main-navbar">
 			<div class="container">
 				<!-- Navbar Brand start -->
-				<a class="navbar-brand" href="./">
+				<a class="navbar-brand" href="https://alvaritogsg.dev" target="_self">
 					<h1>Álvaro <span>Gabriel</span></h1>
 				</a>
 				<!-- Navbar Brand end -->
@@ -116,9 +128,9 @@
 							Estoy listo para afrontar nuevos desafíos, aportar mi perspectiva individual y contribuir al
 							éxito del equipo. ¡Contacta conmigo y construyamos juntos un futuro extraordinario!</p>
 
-						<!-- <a href="./cvAlvaroSoria.pdf" target="_blank" class="btn-download">Ver
+						<!-- <a href="/cvAlvaroSoria.pdf" target="_blank" class="btn-download">Ver
 							Currículo</a> -->
-						<a href="./cvAlvaroSoria_en.pdf" target="_blank" class="btn-download">Ver
+						<a href="/cvAlvaroSoria_en.pdf" target="_blank" class="btn-download">Ver
 							Currículo</a>
 					</div>
 					<!-- Banner Content End -->
@@ -613,9 +625,10 @@
 					<div class="filter-container portfolio-nav">
 						<ul class="list-inline filter">
 							<li><a href="#" class="active-portfolio" data-filter="*">Todos </a></li>
-							<li><a href="#" data-filter=".designing">Font-end</a></li>
-							<li><a href="#" data-filter=".graphic">Back-end</a></li>
-							<li><a href="#" data-filter=".websites">Full-Stack</a></li>
+							<li><a href="#" data-filter=".front-end">Front end</a></li>
+							<li><a href="#" data-filter=".back-end">Back end</a></li>
+							<li><a href="#" data-filter=".full-stack">Full Stack</a></li>
+							<!-- <li><a href="#" data-filter=".data-science">Data Science</a></li> -->
 						</ul>
 					</div>
 					<!-- Portfolio Filter list End -->
@@ -624,7 +637,7 @@
 
 			<div class="row portfolio-boxes">
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box designing">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box front-end">
 					<div class="single-portfolio">
 						<a href="#popup-1" class="has-popup">
 							<img src="images/portfolio-1.png" class="Portfolio Image"
@@ -642,7 +655,7 @@
 							</div>
 							<div class="desc">
 								<h4>Maquetación semántica básica</h4>
-								<h5><i class="fa fa-folder"></i> Frontend: HTML - CSS</h5>
+								<h5><i class="fa fa-folder"></i> Front end: HTML - CSS</h5>
 								<p>
 									Mi primera Web, aprendiendo las bases. Aprendí sobre etiquetas, estructura y
 									semántica de una página. También sobre identificadores, clases y lo básico sobre
@@ -657,7 +670,7 @@
 				<!-- Single Portfolio Ends -->
 
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box designing">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box front-end">
 					<div class="single-portfolio">
 						<a href="#popup-2" class="has-popup">
 							<img src="images/portfolio-2.png" class="Portfolio Image" alt="CapturaPantalla Proyecto2" />
@@ -674,7 +687,7 @@
 							</div>
 							<div class="desc">
 								<h4>Netflix Login</h4>
-								<h5><i class="fa fa-folder"></i>Frontend: HTML - CSS</h5>
+								<h5><i class="fa fa-folder"></i>Front end: HTML - CSS</h5>
 								<p>
 									Práctica de estilos CSS de la página web de Netflix donde clonamos su Inicio de
 									Sesión: tanto el Sign-In y el Sign-Up.
@@ -688,7 +701,7 @@
 				<!-- Single Portfolio Ends -->
 
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box websites">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box front-end">
 					<div class="single-portfolio">
 						<a href="#popup-3" class="has-popup">
 							<img src="images/portfolio-3.png" class="Portfolio Image" alt="CapturaPantalla Proyecto3" />
@@ -705,7 +718,7 @@
 							</div>
 							<div class="desc">
 								<h4>HBO Max Login</h4>
-								<h5><i class="fa fa-folder"></i> Frontend: HTML - CSS</h5>
+								<h5><i class="fa fa-folder"></i> Front end: HTML - CSS</h5>
 								<p>
 									Clon, página de Acceso a la plataforma Max. Práctica de estilos CSS puro.
 								</p>
@@ -719,7 +732,7 @@
 				<!-- Single Portfolio Ends -->
 
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box graphic">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box front-end">
 					<div class="single-portfolio">
 						<a href="#popup-4" class="has-popup">
 							<img src="images/portfolio-4a.png" class="Portfolio Image"
@@ -737,7 +750,7 @@
 							</div>
 							<div class="desc">
 								<h4>Sistema de Ventas</h4>
-								<h5><i class="fa fa-folder"></i> Frontend: HTML - CSS - JavaScript</h5>
+								<h5><i class="fa fa-folder"></i> Front end: HTML - CSS - JavaScript</h5>
 								<p>
 									Acceso, creación/registro de: productos, proveedores, clientes, compras y ventas.
 									Funciona/almacena en localStorage. Para su desarrollo únicamente se utilizó: HTML,
@@ -752,7 +765,7 @@
 				<!-- Single Portfolio Ends -->
 
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box graphic">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box front-end">
 					<div class="single-portfolio">
 						<a href="#popup-5" class="has-popup">
 							<img src="images/portfolio-5.png" class="Portfolio Image"
@@ -770,7 +783,7 @@
 							</div>
 							<div class="desc">
 								<h4>Prácticas de Type Script</h4>
-								<h5><i class="fa fa-folder"></i> Frontend: HTML - TypeScript</h5>
+								<h5><i class="fa fa-folder"></i> Front end: HTML - TypeScript</h5>
 								<p>
 									Ejercicios de lógica usando TypeScript para interactuar con los elementos HTML.
 									Indirectamente uso de Bootstrap para estilos.
@@ -785,13 +798,13 @@
 				<!-- Single Portfolio Ends -->
 
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box designing">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box back-end">
 					<div class="single-portfolio">
 						<a href="#popup-6" class="has-popup">
 							<img src="images/portfolio-6.jpg" class="Portfolio Image" alt="" />
 							<div class="single-portfolio-overlay">
 								<h2>Project Title</h2>
-								<h3>Designing</h3>
+								<h3>Front-end</h3>
 							</div>
 						</a>
 					</div>
@@ -815,13 +828,13 @@
 				<!-- Single Portfolio Ends -->
 
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box graphic">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box back-end">
 					<div class="single-portfolio">
 						<a href="#popup-7" class="has-popup">
 							<img src="images/portfolio-7.jpg" class="Portfolio Image" alt="" />
 							<div class="single-portfolio-overlay">
 								<h2>Project Title</h2>
-								<h3>Graphic</h3>
+								<h3>Back end</h3>
 							</div>
 						</a>
 					</div>
@@ -845,7 +858,7 @@
 				<!-- Single Portfolio Ends -->
 
 				<!-- Single Portfolio starts -->
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box websites">
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box full-stack">
 					<div class="single-portfolio">
 						<a href="#popup-8" class="has-popup">
 							<img src="images/portfolio-8.jpg" class="Portfolio Image" alt="" />
@@ -887,55 +900,11 @@
 	<!-- Portfolio Section Ends -->
 
 	<!-- Contact Information Section Starts -->
-	<div class="contact-information">
+	<!-- <div class="contact-information">
 		<div class="container">
-			<div class="row">
-				<a class="col-lg-4" href="https://maps.app.goo.gl/8FXCnBf9vbG2o2qa9" target="_blank">
-					<!-- Contact info single start -->
-					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.3s">
-						<h3>Dirección</h3>
-						<p>Oruro - Bolivia</p>
-					</div>
-					<!-- Contact info single end -->
-				</a>
-				<a class="col-lg-4" href="https://t.me/AlvaritoGSG" target="_blank">
-					<!-- Contact info single start -->
-					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.6s">
-						<h3>Telegram</h3>
-						<p>@AlvaritoGSG</p>
-					</div>
-					<!-- Contact info single end -->
-				</a>
-				<a class="col-lg-4" href="mailto:alvaritogsg@outlook.com" target="_blank">
-					<!-- Contact info single start -->
-					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.9s">
-						<h3>Correo electrónico</h3>
-						<p>AlvaritoGSG@outlook.com</p>
-					</div>
-					<!-- Contact info single end -->
-				</a>
-			</div>
-		</div>
-	</div>
-	<!-- Contact Information Section Ends -->
-
-	<!-- Contact us Section Starts -->
-	<section class="contactus" id="contact">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<!-- Section title start -->
-					<div class="section-title">
-						<h2>Ponerse en contacto</h2>
-						<p>No dudes en escribirme</p>
-					</div>
-					<!-- Section title end -->
-				</div>
-			</div>
-
+		(contact information cambiado por formulario contactanos)	
 			<div class="row">
 				<div class="col-md-8 offset-md-2">
-					<!-- Contact Form start -->
 					<div class="contact-form">
 						<form id="contactForm" action="#" method="post">
 							<div class="row">
@@ -956,14 +925,52 @@
 									<small class="col-12 text-center text-danger">*re-conexión DNS hacia el backend
 										pendiente, por favor utilice los botones de Telegram o Correo
 										Electrónico.</small>
-									<!-- <button type="submit" class="btn-contact" disabled>¡Contactar
-										ahora!</button> -->
+									<button type="submit" class="btn-contact" disabled>¡Contactar
+										ahora!</button>
 								</div>
 							</div>
 						</form>
 					</div>
-					<!-- Contact Form end -->
 				</div>
+			</div>
+
+		</div>
+	</div> -->
+	<!-- Contact Information Section Ends -->
+
+	<!-- Contact us Section Starts -->
+	<section class="contactus my-5 py-5" id="contact">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!-- Section title start -->
+					<div class="section-title">
+						<h2>Ponerse en contacto</h2>
+						<p>No dudes en escribirme</p>
+					</div>
+					<!-- Section title end -->
+				</div>
+			</div>
+
+			<div class="row">
+				<a class="col-lg-4" href="https://maps.app.goo.gl/8FXCnBf9vbG2o2qa9" target="_blank">
+					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.3s">
+						<h3>Dirección</h3>
+						<p>Oruro - Bolivia</p>
+					</div>
+				</a>
+				<a class="col-lg-4" href="https://t.me/AlvaritoGSG" target="_blank">
+					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.6s">
+						<h3>Telegram</h3>
+						<p>@AlvaritoGSG</p>
+					</div>
+				</a>
+				<a class="col-lg-4" href="mailto:alvaritogsg@outlook.com" target="_blank">
+					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.9s">
+						<h3>Correo electrónico</h3>
+						<p>AlvaritoGSG@outlook.com</p>
+					</div>
+				</a>
 			</div>
 		</div>
 	</section>
@@ -979,12 +986,14 @@
 						<h1>Alvarito<span>GSG</span></h1>
 					</a>
 					<!-- Footer Logo end -->
-
 					<!-- Footer About start -->
 					<div class="footer-about">
 						<p>
 							<span style="font-size: x-large; font-weight: lighter;">
 								Intenso, competente y tenaz. En transformación constante.
+							</span><br>
+							<span style="font-size: x-large; font-weight: lighter;">
+								Hijo, hermano, amigo, ciudadano del mundo. Software developer.
 							</span><br>
 							<!-- Life is tough, me too. Furthermore resilient. <br> -->
 							<small
