@@ -14,12 +14,15 @@ Busco oportunidades en la industria, me llama la atención trabajar con producto
 mindmap
   root((Habilidades))
     Frontend
-      HTML/CSS
+      HTML
+      CSS
+      TypeScript
       Vue.js
       Bootstrap
     Backend
       Laravel
       MySQL
+      PostgreSQL
     Lenguajes
       JavaScript
       Python
@@ -27,6 +30,7 @@ mindmap
     DevOps
       Git
       CI/CD
+      Docker
 ```
 
 ## 📊 Mis estadísticas de GitHub
@@ -35,21 +39,21 @@ mindmap
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- Node.js
+- Nest
 
 ## 💡 Intereses
 
 - 🌐 Desarrollo Web Moderno
-- 🏗️ Ingeniería de Software
 - 🧠 Inteligencia Artificial
+- 🏗️ Ingeniería de Software
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaritogsg/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlvaritoGSG)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AlvaritoGSG)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaritogsg/) ,
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlvaritoGSG) O
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AlvaritoGSG)
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos para 2026
 
 - Adquirir experiencia profesional en la industria tecnológica.
 - Mejorar mis habilidades técnicas como desarrollador.
@@ -57,9 +61,7 @@ mindmap
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuario&color=blueviolet" alt="Visitas al perfil">
+  <img src="https://komarev.com/ghpvc/?username=TuUsuario  &  color=blueviolet" alt="Visitas al perfil">
 </p>
 
-<p align="center">
-  "La ingeniería es el arte de modelar materiales que no comprendemos, en formas que no podemos analizar, para soportar fuerzas que no podemos prever, de tal manera que el público no tiene razón para sospechar la extensión de nuestra ignorancia." - Dr. AR Dykes
-</p>
+> "La ingeniería es el arte de modelar materiales que no comprendemos, en formas que no podemos analizar, para soportar fuerzas que no podemos prever, de tal manera que el público no tiene razón para sospechar la extensión de nuestra ignorancia." - Dr. AR Dykes
