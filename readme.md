@@ -13,24 +13,24 @@ Busco oportunidades en la industria, me llama la atención trabajar con producto
 ```mermaid
 mindmap
   root((Habilidades))
-    Frontend
-      HTML
-      CSS
-      TypeScript
-      Vue.js
-      Bootstrap
-    Backend
-      Laravel
-      MySQL
-      PostgreSQL
-    Lenguajes
-      JavaScript
-      Python
-      php
-    DevOps
-      Git
-      CI/CD
-      Docker
+    ((Front end))
+      (HTML)
+      (CSS)
+      (TypeScript)
+      (Vue.js)
+      (Bootstrap)
+    ((Back end))
+      (Laravel)
+      (php)
+      (MySQL)
+      (PostgreSQL)
+      (JavaScript)
+      (Node.js)
+      (Express.js)
+    ((DevOps))
+      (Git)
+      (CI/CD)
+      (Docker)
 ```
 
 ## 📊 Mis estadísticas de GitHub
@@ -60,8 +60,11 @@ mindmap
 
 ---
 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlvaritoGSG&color=03091E" alt="Visitas al perfil">
+</p> -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuario  &  color=blueviolet" alt="Visitas al perfil">
+  <img src="https://komarev.com/ghpvc/?username=AlvaritoGSG&color=goldenrod" alt="Visitas al perfil">
 </p>
 
 > "La ingeniería es el arte de modelar materiales que no comprendemos, en formas que no podemos analizar, para soportar fuerzas que no podemos prever, de tal manera que el público no tiene razón para sospechar la extensión de nuestra ignorancia." - Dr. AR Dykes
