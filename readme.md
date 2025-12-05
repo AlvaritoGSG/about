@@ -24,24 +24,22 @@ Busco oportunidades en la industria, me llama la atención trabajar con producto
 ![Static Badge](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=eb2f65&labelColor=black)
+![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=e59208&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=316192&labelColor=black)
 
 ### DevOps & Herramientas
 
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=f05032&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=2496ed&labelColor=black)
-![Static Badge](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black)
-![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=2088ff&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
 
 ## 📊 Mi Actividad y Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaritoGSG&theme=dracula&hide_border=true" alt="Racha de contribuciones" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlvaritoGSG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaritoGSG&theme=dracula&hide_border=true" alt="Racha de contribuciones" />
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlvaritoGSG&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes principales" />
 </div>
 
