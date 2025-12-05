@@ -8,34 +8,42 @@ Tengo habilidades para el trabajo en equipo, resolución de problemas y adaptaci
 
 Busco oportunidades en la industria, me llama la atención trabajar con productos robustos y escalables, también, la inteligencia artificial. Estoy listo para asumir nuevos retos y crecer profesionalmente. ¡Contáctame!
 
-## 🚀 Mis habilidades
+## 🚀 Mis Habilidades Técnicas y Herramientas
 
-```mermaid
-mindmap
-  root((Habilidades))
-    ((Front end))
-      (HTML)
-      (CSS)
-      (TypeScript)
-      (Vue.js)
-      (Bootstrap)
-    ((Back end))
-      (Laravel)
-      (php)
-      (MySQL)
-      (PostgreSQL)
-      (JavaScript)
-      (Node.js)
-      (Express.js)
-    ((DevOps))
-      (Git)
-      (CI/CD)
-      (Docker)
-```
+### Front-end
 
-## 📊 Mis estadísticas de GitHub
+![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black)
+![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black)
+![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/vuejs-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlvaritoGSG&show_icons=true&theme=radical)
+### Back-end
+
+![Static Badge](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=black)
+![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+
+### DevOps & Herramientas
+
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-Pipeline%20%26%20Automation-blue?style=for-the-badge&labelColor=black)
+![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=black)
+
+## 📊 Mi Actividad y Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlvaritoGSG&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaritoGSG&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlvaritoGSG&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes principales" />
+</div>
 
 ## 🌱 Actualmente estoy aprendiendo
 
@@ -44,8 +52,8 @@ mindmap
 ## 💡 Intereses
 
 - 🌐 Desarrollo Web Moderno
-- 🧠 Inteligencia Artificial
 - 🏗️ Ingeniería de Software
+- 🧠 Inteligencia Artificial
 
 ## 📫 Conéctate conmigo
 
@@ -64,7 +72,7 @@ mindmap
   <img src="https://komarev.com/ghpvc/?username=AlvaritoGSG&color=03091E" alt="Visitas al perfil">
 </p> -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlvaritoGSG&color=goldenrod" alt="Visitas al perfil">
+  <img src="https://komarev.com/ghpvc/?username=AlvaritoGSG&color=gold" alt="Visitas al perfil">
 </p>
 
 > "La ingeniería es el arte de modelar materiales que no comprendemos, en formas que no podemos analizar, para soportar fuerzas que no podemos prever, de tal manera que el público no tiene razón para sospechar la extensión de nuestra ignorancia." - Dr. AR Dykes
