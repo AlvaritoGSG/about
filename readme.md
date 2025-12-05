@@ -30,10 +30,10 @@ Busco oportunidades en la industria, me llama la atención trabajar con producto
 
 ### DevOps & Herramientas
 
-![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=f05032&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=2496ed&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=2088ff&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=f05032&labelColor=black)
 
 ## 📊 Mi Actividad y Estadísticas de GitHub
 
@@ -55,10 +55,10 @@ Busco oportunidades en la industria, me llama la atención trabajar con producto
 
 ## 📫 Conéctate conmigo
 
-  [![Website](https://img.shields.io/badge/-Web_Personal-0077B5?style=flat-square&logo=internetexplorer&logoColor=white)](https://alvaritogsg.dev)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaritogsg/)
+  [![Website](https://img.shields.io/badge/-Web_Personal-orange?style=flat-square&logo=internetexplorer&logoColor=white)](https://alvaritogsg.dev)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlvaritoGSG)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AlvaritoGSG)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaritogsg/)
 
 ## 🎯 Objetivos para 2026
 
