@@ -540,22 +540,14 @@ header .navbar.sticky-header {
 	transform: scale(1);
 }
 
-.service-single .icon-box {
-	color: gold;
-	;
-	font-size: 60px;
-	line-height: 1em;
-	margin-bottom: 26px;
-}
-
-.service-single h3 {
-	font-size: 20px;
-	font-weight: 400;
+.service-single figcaption {
+	/* font-size: 20px;
+	font-weight: 400; */
 	color: white;
-	margin-bottom: 16px;
+	/* margin-bottom: 16px; */
 }
 
-.service-single p {
+.service-single figcaption {
 	margin-bottom: 0;
 }
 
@@ -1732,10 +1724,6 @@ header .navbar.sticky-header {
 
 	.about-content h3 {
 		font-size: 22px;
-	}
-
-	.service-single .icon-box {
-		font-size: 40px;
 	}
 
 	.experience {
